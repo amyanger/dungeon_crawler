@@ -15,10 +15,24 @@ A terminal-based roguelike dungeon crawler game written in Rust.
 - Rust 1.70+
 - A terminal that supports ANSI escape codes
 
+## Installation
+
+```bash
+git clone https://github.com/amyanger/dungeon_crawler.git
+cd dungeon_crawler
+cargo build --release
+```
+
 ## Running
 
 ```bash
 cargo run
+```
+
+Or run the release build:
+
+```bash
+./target/release/dungeon_crawler
 ```
 
 ## Controls
@@ -31,3 +45,7 @@ cargo run
 
 - `crossterm` - Terminal manipulation
 - `rand` - Random number generation
+
+## License
+
+MIT License - see LICENSE file for details
