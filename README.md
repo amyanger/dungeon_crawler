@@ -46,6 +46,10 @@ Or run the release build:
 - `crossterm` - Terminal manipulation
 - `rand` - Random number generation
 
+## Author
+
+Arjun Myanger - [GitHub](https://github.com/amyanger)
+
 ## License
 
 MIT License - see LICENSE file for details
