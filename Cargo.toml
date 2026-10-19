@@ -2,7 +2,7 @@
 name = "dungeon_crawler"
 version = "0.1.0"
 edition = "2021"
-authors = ["Arjun Myanger"]
+authors = ["amyanger"]
 description = "A terminal-based roguelike dungeon crawler game"
 repository = "https://github.com/amyanger/dungeon_crawler"
 license = "MIT"

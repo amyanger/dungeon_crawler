@@ -48,7 +48,7 @@ Or run the release build:
 
 ## Author
 
-Arjun Myanger - [GitHub](https://github.com/amyanger)
+amyanger - [GitHub](https://github.com/amyanger)
 
 ## License
 
